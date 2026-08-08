@@ -8,13 +8,11 @@ public:
         for(int i=n-2;i>=0;i--){
             int k=suff[i+1];
             if(k<m && word1[i]==word2[m-k-1]) suff[i]=k+1;
-            else{
-                suff[i]=k;
-            }
+            else suff[i]=k;
         }
-        bool used=false;
-        int i=0,j=0;
         vector<int>ans;
+        int i=0,j=0;
+        bool used=false;
         while(i<n && j<m){
             if(word1[i]==word2[j]){
                 ans.push_back(i);
@@ -28,8 +26,8 @@ public:
                 }
                 if(possible){
                     ans.push_back(i);
-                    used=true;
                     j++;
+                    used=true;
                 }
             }
             i++;
