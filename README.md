@@ -8,6 +8,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3731-find-missing-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Manacher
 |  |
@@ -75,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -98,4 +101,20 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
