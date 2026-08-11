@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
