@@ -13,6 +13,7 @@
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1480-running-sum-of-1d-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -115,6 +117,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Minimax
 |  |
 | ------- |
