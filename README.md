@@ -7,6 +7,7 @@
 | ------- |
 | [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -204,6 +205,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Combinatorics
 |  |
@@ -232,5 +234,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
