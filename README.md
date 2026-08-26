@@ -66,6 +66,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1927-sum-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -148,6 +149,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Minimax
