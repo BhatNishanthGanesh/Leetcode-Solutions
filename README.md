@@ -129,6 +129,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1563-stone-game-v) |
