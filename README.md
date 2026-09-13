@@ -12,6 +12,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
+| [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Union-Find
