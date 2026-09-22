@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0039-combination-sum) |
@@ -50,6 +51,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
