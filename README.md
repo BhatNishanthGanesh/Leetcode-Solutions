@@ -19,6 +19,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
@@ -63,6 +64,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
