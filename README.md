@@ -9,6 +9,7 @@
 | [0039-combination-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0238-product-of-array-except-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -230,6 +231,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
