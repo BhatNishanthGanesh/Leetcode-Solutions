@@ -57,6 +57,7 @@
 | [3903-smallest-stable-index-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
+| [4062-transform-array-using-pair-operations](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -426,4 +427,8 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Brainteaser
+|  |
+| ------- |
+| [4062-transform-array-using-pair-operations](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 <!---LeetCode Topics End-->
