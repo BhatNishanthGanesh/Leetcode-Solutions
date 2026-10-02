@@ -60,6 +60,7 @@
 | [4062-transform-array-using-pair-operations](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [3731-find-missing-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Sorting
 |  |
 | ------- |
@@ -277,6 +279,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4067-longest-subarray-with-restricted-pair-sums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4067-longest-subarray-with-restricted-pair-sums) |
 ## Minimax
 |  |
 | ------- |
