@@ -59,6 +59,7 @@
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -324,6 +326,7 @@
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
 ## Segment Tree
 |  |
 | ------- |
