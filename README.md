@@ -25,6 +25,7 @@
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -81,6 +82,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -296,6 +298,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -351,6 +354,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4066-maximum-equal-adjacent-pairs-after-at-most-one-replacement) |
