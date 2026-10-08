@@ -74,6 +74,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -141,6 +142,7 @@
 | [0022-generate-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -302,6 +304,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
