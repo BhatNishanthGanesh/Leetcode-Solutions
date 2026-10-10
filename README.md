@@ -46,6 +46,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -128,6 +129,7 @@
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -490,6 +492,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
 |  |
