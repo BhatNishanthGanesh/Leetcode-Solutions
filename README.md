@@ -46,6 +46,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -225,6 +226,7 @@
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 ## Design
 |  |
 | ------- |
@@ -362,6 +364,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3903-smallest-stable-index-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3904-smallest-stable-index-ii) |
@@ -528,8 +531,13 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Cartesian Tree
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
