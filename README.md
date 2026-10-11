@@ -16,6 +16,7 @@
 | [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -94,6 +95,7 @@
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0217-contains-duplicate](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -169,6 +171,7 @@
 | [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -205,6 +208,7 @@
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0403-frog-jump) |
@@ -584,5 +588,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
