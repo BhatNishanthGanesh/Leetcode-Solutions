@@ -21,6 +21,7 @@
 | [0213-house-robber-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -212,6 +213,7 @@
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -286,6 +288,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -609,4 +612,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
