@@ -28,6 +28,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -199,6 +200,7 @@
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
