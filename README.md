@@ -36,6 +36,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
@@ -275,6 +276,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -285,6 +287,7 @@
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -517,6 +520,7 @@
 | [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -527,6 +531,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
