@@ -287,6 +287,7 @@
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -304,6 +305,7 @@
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
+| [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -318,6 +320,7 @@
 | [0207-course-schedule](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
@@ -595,6 +598,7 @@
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -694,4 +698,12 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
