@@ -10,12 +10,12 @@ public:
             color[i]=0;
             while(!q.empty()){
                 int node=q.front();
-                q.pop();
-                for(auto it:graph[node]){
-                    if(color[it]==-1){
-                        color[it]=1-color[node];
-                        q.push(it);
-                    }else if(color[it]==color[node]){
+                q.pop(); 
+                for(auto nei:graph[node]){
+                    if(color[nei]==-1){
+                        color[nei]=1-color[node];
+                        q.push(nei);
+                    }else if(color[nei]==color[node]){
                         return false;
                     }
                 }
