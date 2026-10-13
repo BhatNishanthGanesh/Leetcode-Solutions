@@ -285,6 +285,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -301,6 +302,7 @@
 | [0210-course-schedule-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
@@ -315,6 +317,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
@@ -558,6 +561,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
