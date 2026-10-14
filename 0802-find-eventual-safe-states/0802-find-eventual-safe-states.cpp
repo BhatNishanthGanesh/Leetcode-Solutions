@@ -13,14 +13,14 @@ public:
         return true;
     }
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        vector<int>v;
         int n=graph.size();
-        vector<int>state(n,0);
+        vector<int>state(n);
+        vector<int>ans;
         for(int i=0;i<n;i++){
             if(dfs(i,graph,state)){
-                v.push_back(i);
+                ans.push_back(i);
             }
         }
-        return v;
+        return ans;
     }
 };
