@@ -290,6 +290,7 @@
 | [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -309,6 +310,7 @@
 | [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
@@ -325,6 +327,7 @@
 | [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
@@ -573,6 +576,7 @@
 | [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -691,10 +695,12 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 ## Bipartite Graph
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 ## Topological Sort
 |  |
 | ------- |
