@@ -57,6 +57,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -331,6 +332,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Binary Search
 |  |
@@ -580,6 +582,7 @@
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -731,4 +734,20 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
