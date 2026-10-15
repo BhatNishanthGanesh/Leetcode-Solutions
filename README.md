@@ -58,6 +58,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1695-maximum-erasure-value](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1695-maximum-erasure-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -293,6 +294,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -316,6 +318,7 @@
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3310-remove-methods-from-project) |
@@ -346,6 +349,7 @@
 | [0875-koko-eating-bananas](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -567,6 +571,7 @@
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -583,6 +588,7 @@
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -616,6 +622,7 @@
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bucket Sort
@@ -726,6 +733,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
+| [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Kosaraju's Algorithm
 |  |
 | ------- |
