@@ -185,6 +185,7 @@
 | [0022-generate-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -224,6 +225,7 @@
 | [0032-longest-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
