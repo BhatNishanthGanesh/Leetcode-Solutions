@@ -32,6 +32,7 @@
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0525-contiguous-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
@@ -233,6 +234,7 @@
 | [0403-frog-jump](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -399,6 +401,7 @@
 | [0022-generate-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -695,6 +698,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -765,4 +769,5 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
