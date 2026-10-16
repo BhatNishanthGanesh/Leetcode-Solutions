@@ -40,6 +40,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -246,6 +247,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -452,6 +454,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -478,6 +481,7 @@
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
