@@ -25,6 +25,7 @@
 | [0238-product-of-array-except-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -361,6 +362,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -529,12 +531,14 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bit Manipulation
@@ -639,6 +643,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -801,5 +806,14 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
