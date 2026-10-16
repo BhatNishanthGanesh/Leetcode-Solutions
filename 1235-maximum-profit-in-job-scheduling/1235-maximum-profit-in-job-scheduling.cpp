@@ -1,8 +1,8 @@
 class Solution {
 public:
     int jobScheduling(vector<int>& startTime, vector<int>& endTime, vector<int>& profit) {
-        vector<tuple<int,int,int>>v;
         int n=startTime.size();
+        vector<tuple<int,int,int>>v;
         for(int i=0;i<n;i++) v.push_back({startTime[i],endTime[i],profit[i]});
         sort(v.begin(),v.end());
         vector<int>dp(n+1);
