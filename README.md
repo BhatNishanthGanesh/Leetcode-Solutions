@@ -65,6 +65,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -274,6 +275,7 @@
 | [1510-stone-game-iv](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -405,6 +407,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1927-sum-game) |
@@ -575,6 +578,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Tree
@@ -588,6 +592,7 @@
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -595,6 +600,7 @@
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -606,6 +612,7 @@
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Lifting
 |  |
@@ -645,6 +652,7 @@
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -674,6 +682,7 @@
 | [0053-maximum-subarray](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -744,6 +753,7 @@
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Trie
 |  |
 | ------- |
@@ -847,4 +857,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
