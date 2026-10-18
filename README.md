@@ -379,6 +379,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -564,6 +565,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -587,6 +589,7 @@
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
@@ -607,6 +610,7 @@
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
