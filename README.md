@@ -318,6 +318,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0207-course-schedule) |
@@ -346,6 +347,7 @@
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0207-course-schedule) |
@@ -596,6 +598,7 @@
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -622,6 +625,7 @@
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0112-path-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
