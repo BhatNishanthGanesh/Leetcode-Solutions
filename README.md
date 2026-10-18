@@ -593,6 +593,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -602,6 +603,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
@@ -614,6 +616,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0337-house-robber-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
