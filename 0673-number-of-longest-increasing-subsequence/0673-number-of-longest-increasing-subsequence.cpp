@@ -3,7 +3,7 @@ public:
     pair<int,int> solve(int i,int last,vector<int>&nums,vector<vector<pair<int,int>>>&dp){
         if(i>=nums.size()) return {0,1};
         if(dp[i][last+1].first!=-1) return dp[i][last+1];
-        pair<int,int>take={-1,0};
+        pair<int,int> take={0,0};
         if(last==-1 || nums[i]>nums[last]){
             auto res=solve(i+1,i,nums,dp);
             take={1+res.first,res.second};
@@ -15,7 +15,7 @@ public:
         if(notTake.first>take.first){
             return dp[i][last+1]=notTake;
         }
-        return dp[i][last+1]={take.first,take.second+notTake.second};
+        return dp[i][last+1]={max(take.first,notTake.first),take.second+notTake.second};
     }
     int findNumberOfLIS(vector<int>& nums) {
         int n=nums.size();
