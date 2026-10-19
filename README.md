@@ -78,6 +78,7 @@
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -419,6 +420,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -834,6 +836,7 @@
 | [0354-russian-doll-envelopes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 ## DP on Trees
 |  |
 | ------- |
@@ -909,6 +912,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
 |  |
