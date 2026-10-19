@@ -35,6 +35,7 @@
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0491-non-decreasing-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0502-ipo](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0502-ipo) |
@@ -131,6 +132,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0491-non-decreasing-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0508-most-frequent-subtree-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0525-contiguous-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0525-contiguous-array) |
@@ -466,6 +468,7 @@
 | [0039-combination-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0113-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+| [0491-non-decreasing-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -595,6 +598,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0491-non-decreasing-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
