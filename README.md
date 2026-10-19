@@ -41,6 +41,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
@@ -266,6 +267,7 @@
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
@@ -571,6 +573,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -816,6 +819,7 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## DP on Trees
 |  |
 | ------- |
@@ -890,6 +894,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Merge Sort
 |  |
