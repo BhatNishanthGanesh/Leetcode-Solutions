@@ -74,6 +74,7 @@
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
@@ -178,6 +179,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -406,6 +408,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
