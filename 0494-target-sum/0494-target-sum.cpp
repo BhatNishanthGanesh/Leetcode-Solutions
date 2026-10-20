@@ -1,23 +1,22 @@
 class Solution {
 public:
-    int findTargetSumWays(vector<int>& nums, int target) {
-        int tot=accumulate(nums.begin(),nums.end(),0);
-        int k=(tot+target)/2;
-        if(tot<abs(target)) return 0;
-        if((tot+target)%2!=0) return 0;
-        int n=nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(k+1,0));
-        dp[0][0]=1;
-        for(int i=1;i<=n;i++){
-            for(int j=0;j<=k;j++){
-                int take=0;
-                if(nums[i-1]<=j){
-                    take=dp[i-1][j-nums[i-1]];
-                }
-                int skip=dp[i-1][j];
-                dp[i][j]=take+skip;
-            }
+    int solve(int i,vector<int>&nums,int k,vector<vector<int>>&dp){
+        if(i==nums.size()){
+            if(k==0) return 1;
+            return 0;
         }
-        return dp[n][k];
+        if(k<0) return 0;
+        if(dp[i][k]!=-1) return dp[i][k];
+        int take=solve(i+1,nums,k-nums[i],dp);
+        int skip=solve(i+1,nums,k,dp);
+        return dp[i][k]=take+skip;
+    }
+    int findTargetSumWays(vector<int>& nums, int k) {
+        int tot=accumulate(nums.begin(),nums.end(),0);
+        if(tot<abs(k)) return 0;
+        if((tot+k)%2!=0) return 0;
+        int s=(tot+k)/2;
+        vector<vector<int>>dp(nums.size()+1,vector<int>(s+1,-1));
+        return solve(0,nums,s,dp);
     }
 };
