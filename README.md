@@ -272,6 +272,7 @@
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -379,6 +380,7 @@
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0684-redundant-connection) |
@@ -440,6 +442,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0836-rectangle-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -833,6 +836,7 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -841,6 +845,7 @@
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 ## Longest Increasing Subsequence
 |  |
