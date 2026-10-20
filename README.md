@@ -35,6 +35,7 @@
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
+| [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0491-non-decreasing-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
@@ -227,6 +228,7 @@
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0301-remove-invalid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0500-keyboard-row) |
 | [0678-valid-parenthesis-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -277,6 +279,7 @@
 | [0403-frog-jump](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -830,6 +833,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
@@ -909,6 +913,7 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Longest Common Subsequence
