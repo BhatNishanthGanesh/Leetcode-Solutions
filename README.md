@@ -76,6 +76,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1425-constrained-subsequence-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -326,6 +327,7 @@
 | [1235-maximum-profit-in-job-scheduling](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1425-constrained-subsequence-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
@@ -564,6 +566,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1425-constrained-subsequence-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -805,6 +808,7 @@
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0743-network-delay-time](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0743-network-delay-time) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
@@ -841,11 +845,13 @@
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1425-constrained-subsequence-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Stack
 |  |
