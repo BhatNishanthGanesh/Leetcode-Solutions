@@ -60,6 +60,7 @@
 | [0875-koko-eating-bananas](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0983-minimum-cost-for-tickets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -302,6 +303,7 @@
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0983-minimum-cost-for-tickets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0983-minimum-cost-for-tickets) |
 | [1049-last-stone-weight-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -724,6 +726,7 @@
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
+| [0931-minimum-falling-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
