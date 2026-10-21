@@ -70,6 +70,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -313,6 +314,7 @@
 | [1143-longest-common-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -730,6 +732,7 @@
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
