@@ -17,6 +17,7 @@
 | [0063-unique-paths-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -274,6 +275,7 @@
 | [0064-minimum-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -331,6 +333,7 @@
 | [0020-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0856-score-of-parentheses) |
@@ -714,6 +717,7 @@
 | [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0221-maximal-square) |
@@ -823,6 +827,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 ## Range Minimum/Maximum Query
