@@ -39,6 +39,7 @@
 | [0377-combination-sum-iv](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
@@ -297,6 +298,7 @@
 | [0377-combination-sum-iv](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -550,6 +552,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0413-arithmetic-slices](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0837-new-21-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0837-new-21-game) |
