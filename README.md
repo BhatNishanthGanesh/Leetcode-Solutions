@@ -18,6 +18,7 @@
 | [0064-minimum-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
@@ -281,6 +282,7 @@
 | [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0198-house-robber) |
