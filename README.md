@@ -307,6 +307,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0740-delete-and-earn](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0808-soup-servings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0837-new-21-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -467,6 +468,7 @@
 | [0062-unique-paths](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0808-soup-servings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0837-new-21-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0837-new-21-game) |
 | [1137-n-th-tribonacci-number](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -992,5 +994,6 @@
 ## Probability and Statistics
 |  |
 | ------- |
+| [0808-soup-servings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0808-soup-servings) |
 | [0837-new-21-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0837-new-21-game) |
 <!---LeetCode Topics End-->
