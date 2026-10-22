@@ -294,6 +294,7 @@
 | [0198-house-robber](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -481,6 +482,7 @@
 | [0007-reverse-integer](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0233-number-of-digit-one](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0808-soup-servings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
@@ -796,6 +798,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0233-number-of-digit-one](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [3483-unique-3-digit-even-numbers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
