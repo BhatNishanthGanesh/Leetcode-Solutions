@@ -116,6 +116,7 @@
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -539,6 +540,7 @@
 | [1927-sum-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -605,6 +607,7 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
