@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -234,6 +235,7 @@
 | [0005-longest-palindromic-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0763-partition-labels](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0763-partition-labels) |
@@ -294,6 +296,7 @@
 | [0005-longest-palindromic-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
@@ -380,6 +383,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0155-min-stack) |
@@ -916,6 +920,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0907-sum-of-subarray-minimums) |
