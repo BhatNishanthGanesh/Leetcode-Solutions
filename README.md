@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -231,6 +232,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -566,6 +568,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0502-ipo](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
