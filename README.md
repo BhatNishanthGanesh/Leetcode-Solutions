@@ -109,6 +109,7 @@
 | [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -536,6 +537,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -602,6 +604,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
@@ -1095,4 +1098,12 @@
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
