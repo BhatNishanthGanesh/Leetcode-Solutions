@@ -2,8 +2,9 @@ class Solution {
 public:
     int subarraysDivByK(vector<int>& nums, int k) {
         unordered_map<int,int>mp;
-        int pref=0,cnt=0;
+        int cnt=0;
         mp[0]=1;
+        int pref=0;
         for(int ele:nums){
             pref+=ele;
             int req=(pref%k+k)%k;
