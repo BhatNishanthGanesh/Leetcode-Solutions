@@ -87,6 +87,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1248-count-number-of-nice-subarrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1254-number-of-closed-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1386-cinema-seat-allocation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -436,6 +437,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0802-find-eventual-safe-states) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+| [1254-number-of-closed-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -466,6 +468,7 @@
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [2258-escape-the-spreading-fire](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2258-escape-the-spreading-fire) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
@@ -820,6 +823,7 @@
 | [0835-image-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0931-minimum-falling-path-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -839,6 +843,7 @@
 | [0695-max-area-of-island](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0886-possible-bipartition) |
+| [1254-number-of-closed-islands](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
