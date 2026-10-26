@@ -1,12 +1,12 @@
 class Solution {
 public:
-    bool bfs(int i,int j,vector<vector<int>>&grid,vector<vector<bool>>&vis,int k){
+    bool solve(int i,int j,vector<vector<bool>>&vis,vector<vector<int>>&grid,int k){
+        long long sum=(long long)grid[i][j];
         vis[i][j]=true;
         queue<pair<int,int>>q;
-        long long sum=grid[i][j];
+        q.push({i,j});
         int dx[4]={-1,0,1,0};
         int dy[4]={0,1,0,-1};
-        q.push({i,j});
         while(!q.empty()){
             auto [x,y]=q.front();
             q.pop();
@@ -19,19 +19,19 @@ public:
                     vis[nx][ny]=true;
                     sum+=1ll*grid[nx][ny];
                     q.push({nx,ny});
-                } 
+                }
             }
         }
         return sum%k==0;
     }
     int countIslands(vector<vector<int>>& grid, int k) {
         int n=grid.size(),m=grid[0].size();
-        vector<vector<bool>>vis(n,vector<bool>(m,false));
         int cnt=0;
+        vector<vector<bool>>vis(n,vector<bool>(m,false));
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
-                if(!vis[i][j] && grid[i][j]>0){
-                    if(bfs(i,j,grid,vis,k)) cnt++;
+                if(!vis[i][j] && grid[i][j]!=0){
+                    cnt+=solve(i,j,vis,grid,k);
                 }
             }
         }
