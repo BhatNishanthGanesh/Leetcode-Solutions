@@ -51,6 +51,7 @@
 | [0419-battleships-in-a-board](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0419-battleships-in-a-board) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
@@ -219,6 +220,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0502-ipo](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0561-array-partition) |
 | [0621-task-scheduler](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -539,6 +541,7 @@
 | [0233-number-of-digit-one](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0808-soup-servings](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0808-soup-servings) |
 | [0836-rectangle-overlap](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
