@@ -112,6 +112,7 @@
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
 | [1856-maximum-subarray-min-product](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1856-maximum-subarray-min-product) |
 | [1872-stone-game-viii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [1882-process-tasks-using-servers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1964-find-the-longest-valid-obstacle-course-at-each-position](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1964-find-the-longest-valid-obstacle-course-at-each-position) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -933,6 +934,7 @@
 | [1514-path-with-maximum-probability](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1834-single-threaded-cpu) |
+| [1882-process-tasks-using-servers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
