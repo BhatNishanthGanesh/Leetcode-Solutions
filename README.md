@@ -551,6 +551,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0354-russian-doll-envelopes](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0354-russian-doll-envelopes) |
+| [0367-valid-perfect-square](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0410-split-array-largest-sum](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
@@ -574,6 +575,7 @@
 | [0070-climbing-stairs](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0279-perfect-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
