@@ -172,6 +172,7 @@
 | [3934-smallest-unique-subarray](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 | [4062-transform-array-using-pair-operations](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4062-transform-array-using-pair-operations) |
 | [4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/4063-longest-subarray-divisible-by-k-with-at-most-one-negation-i) |
@@ -266,6 +267,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3731-find-missing-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -678,6 +680,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -996,6 +999,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2503-maximum-number-of-points-from-grid-queries](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/2503-maximum-number-of-points-from-grid-queries) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/BhatNishanthGanesh/Leetcode-Solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
